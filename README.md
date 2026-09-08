@@ -71,6 +71,8 @@ Provide a centralized Flask-based dashboard for viewing detected threats, attack
 
 The project files include Suricata rules, Python analysis scripts, firewall scripts, dashboard components, and supporting screenshots.
 
-## Authors
+## Author
 
-- **Tamam Dreat**
+ **Tamam Dreat**
+ **Cybersecurity Student**
+**An-Najah National University**
